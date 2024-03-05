@@ -12,7 +12,17 @@ This is a page that I made with eleventy. Or is it 11ty? I don't know.
 
 **for rreeeaaaallllllll**
 
+
+
+
+
+## Pros
 - fast
 - safe
 - pretty
+
+
+## Cons
 - weirdly complicated
+- silly
+- goofy
